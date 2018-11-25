@@ -13,11 +13,11 @@ In 2017 I gave a talk called "Tricks for cleaning your data in R" which I presen
 ## Files included
 
 ### Annotated code and step-by step instructions for the workshop
-* [Pandas data cleaning tricks.ipynb](https://github.com/underthecurve/pandas-data-cleaning-tricks/blob/master/Pandas%20data%20cleaning%20tricks.ipynb): Jupyter notebook file (for viewing on the web - Desktop only)
-* [xxxx](xxxx): PDF file (for printing out)
+* [Pandas data cleaning tricks.ipynb](https://github.com/underthecurve/pandas-data-cleaning-tricks/blob/master/pandas-data-cleaning-tricks.ipynb): Jupyter notebook file (for viewing on the web - Desktop only)
+* [pandas-data-cleaning-tricks.pdf](https://github.com/underthecurve/pandas-data-cleaning-tricks/blob/master/pandas-data-cleaning-tricks.pdf): PDF file (for printing out)
 
 ### Python code
-* [xxx](xxx): the straight-up Python code, without comments
+* [pandas-data-cleaning-tricks.py](xxx): the straight-up Python code, with annotations commented otu
 
 ### Underlying data needed to run the Python code
 * [employee-earnings-report-2016.csv](https://github.com/underthecurve/pandas-data-cleaning-tricks/blob/master/employee-earnings-report-2016.csv): data on earnings for Boston's municipal employees, from the city's [open data portal](https://data.boston.gov/dataset/employee-earnings-report)
