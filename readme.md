@@ -17,7 +17,7 @@ In 2017 I gave a talk called "Tricks for cleaning your data in R" which I presen
 * [pandas-data-cleaning-tricks.pdf](https://github.com/underthecurve/pandas-data-cleaning-tricks/blob/master/pandas-data-cleaning-tricks.pdf): PDF file (for printing out)
 
 ### Python code
-* [pandas-data-cleaning-tricks.py](xxx): the straight-up Python code, with annotations commented otu
+* [pandas-data-cleaning-tricks.py](https://github.com/underthecurve/pandas-data-cleaning-tricks/blob/master/pandas-data-cleaning-tricks.py): the straight-up Python code, with annotations commented otu
 
 ### Underlying data needed to run the Python code
 * [employee-earnings-report-2016.csv](https://github.com/underthecurve/pandas-data-cleaning-tricks/blob/master/employee-earnings-report-2016.csv): data on earnings for Boston's municipal employees, from the city's [open data portal](https://data.boston.gov/dataset/employee-earnings-report)
