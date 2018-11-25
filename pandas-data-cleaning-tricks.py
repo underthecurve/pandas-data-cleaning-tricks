@@ -3,7 +3,7 @@
 
 # # Tricks for cleaning your data in Python using pandas
 # 
-# **By Christine Zhang ([ychristinezhang at gmail dot com](mailto:ychristinezhang@gmail.com / [@christinezhang](https://twitter.com/christinezhang))**
+# **By Christine Zhang ([ychristinezhang at gmail dot com](mailto:ychristinezhang@gmail.com / [@christinezhang](https://twitter.com/christinezhang) | [@christinezhang](https://twitter.com/christinezhang))**
 
 # GitHub repository for Data+Code: https://github.com/underthecurve/pandas-data-cleaning-tricks
 # 
