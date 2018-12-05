@@ -2,7 +2,7 @@
 
 In 2017 I gave a talk called "Tricks for cleaning your data in R" which I presented at the [Data+Narrative workshop](http://www.bu.edu/com/data-narrative/) at Boston University. The [repo with the code and data](https://github.com/underthecurve/r-data-cleaning-tricks) I used for the talk was pretty well-received, so I figured I'd try to do some of the same stuff in Python using `pandas`.
 
-**Disclaimer:** when it comes to data stuff, I'm much better with R, espeically the `tidyverse` set of packages, than with Python, but in my last job I used Python's `pandas` library to do a lot of data processing since Python was the dominant language there. Please feel free to let me know if there are better ways to do things!
+**Disclaimer:** when it comes to data stuff, I'm much better with R, especially the `tidyverse` set of packages, than with Python, but in my last job I used Python's `pandas` library to do a lot of data processing since Python was the dominant language there. Please feel free to let me know if there are better ways to do things!
 
 ## Links to install Python, pandas and Jupyter notebook
 
